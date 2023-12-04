@@ -6,4 +6,7 @@ we compare short-term electricity demand prediction accuracy using forecasting m
 The Main Paper:
 <br/><https://ictc.org/program_proceeding><br/>
 <https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-18.pdf><br/>
+
+The main code about preprocessing is private.
+And, If you are curious about the seq2seq model, please refer here.
 <https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-17.pdf><br/>
